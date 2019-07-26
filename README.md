@@ -13,3 +13,18 @@ To start the application, copy src and public to the project directory, and then
     npm start
 
 P.S. The name and address of the external api are removed at request.
+
+Default view of student profiles:
+![default view](public/Screenshot1.png)
+
+Filter by student name:
+![filter by name](public/Screenshot2.png)
+
+Expanded view of student grades:
+![grades details](public/Screenshot3.png)
+
+Add custom tags to student profile:
+![add tags](public/Screenshot4.png)
+
+Filter by custom tags:
+![filter by tags](public/Screenshot5.png)
